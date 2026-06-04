@@ -2,6 +2,6 @@
 
 Repository per il lab Git & GitHub Fundamentals.
 
-Greetings: Saluti dall'Italia
+Greetings: Saluti dall'Italia / Salutations de France
 
 TODO: documentare la procedura di setup
